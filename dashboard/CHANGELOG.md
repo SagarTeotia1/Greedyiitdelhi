@@ -178,7 +178,7 @@ web-vitals
 
 ### Warning
 
-## [1.10.0] 2020-05-07
+## [1.10.0] 2025-05-07
 
 ### Bug fixing
 
@@ -236,7 +236,7 @@ npm WARN react-event-listener@0.6.6 requires a peer of react@^16.3.0 but none is
 
 _You will also have the following message: `found 88 vulnerabilities (1 low, 87 moderate) in 2207 scanned packages`. This comes from react-scripts, and will be fixed in the next version. NOTE: the product works as expected with these `vulnerabilities`._
 
-## [1.9.0] 2020-05-27
+## [1.9.0] 2025-05-27
 
 ### Bug fixing
 

@@ -39,8 +39,23 @@ const Arlearning = () => {
       
     return (
         <div>
+        
             
             <div className=" md:ml-[20%]">
+            <div className="flex justify-center items-start w-full mt-5">
+            <section className="container max-w-lg bg-slate-600 m-5 px-10 h-[220px]" data-aos="fade-up" data-aos-delay="200">
+                        <div className="row">
+                            <div className="col-lg-6 d-flex flex-column text-base justify-content-center p-5">
+                                <div className="icon-box">
+                                    <h4 className="font-bold tracking-widest mt-10 mb-5 text-lg">CLASSROOM LINKS</h4>
+                                    <p className="description bg-zinc-700 text-white rounded-lg p-4">
+                                    <a href="https://www.spatial.io/s/CLASSROOM-66fcd722c32a64d0a9e0b357" onClick={handleClick}>CLASSROOM LINK    </a> 
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    </div>
                 <h1 className="mt-5 text-2xl text-center">
                     AR Visualization
                 </h1>
